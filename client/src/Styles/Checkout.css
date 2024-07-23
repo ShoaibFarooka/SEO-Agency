@@ -1,0 +1,10 @@
+.email-div label {
+    padding-right: 5px;
+}
+
+.email-div input {
+    background-color: #f3f6fc;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 0px 5px;
+}
